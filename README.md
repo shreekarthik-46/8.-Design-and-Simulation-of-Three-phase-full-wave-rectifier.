@@ -1,4 +1,4 @@
-# 8.-Design-and-Simulation-of-Three-phase-full-wave-rectifier.
+![exp8 2pe](https://github.com/user-attachments/assets/1ec32cc2-da6c-4601-af5c-ecfe76895599)# 8.-Design-and-Simulation-of-Three-phase-full-wave-rectifier.
 ## AIM
 To design, simulate and analyse a Three phase full wave rectifier controlled by thyristors using MATLAB Simulink.
 ## APPARATUS REQUIRED
@@ -44,6 +44,14 @@ by going to Simulation ⇒ Start
 
 ## Simulation
 
+![exp8cdpe](https://github.com/user-attachments/assets/7c67790d-68f5-42f5-8502-b38e87e0fb9c)
+
 ## Output
+![exp8pe](https://github.com/user-attachments/assets/120cb398-375f-4623-b643-0a13ff632b55)
+![exp8 1pe](https://github.com/user-attachments/assets/a01e4a91-03fb-4ca3-8aa2-14ef4d37632f)
+![exp8 2pe](https://github.com/user-attachments/assets/568debd8-2cab-4c1a-bb66-6a8583ebe561)
 
 ## Result
+Thus,the  design, simulation  and analysis of  a Three phase full wave rectifier controlled by thyristors using MATLAB Simulink is acheived.
+
+
